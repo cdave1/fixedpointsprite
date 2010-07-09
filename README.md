@@ -1,0 +1,1 @@
+A small experiment with OpenGL ES sprite animation using [fixed point](http://en.wikipedia.org/wiki/Fixed-point_arithmetic) coordinates.

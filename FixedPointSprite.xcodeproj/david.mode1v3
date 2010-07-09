@@ -248,6 +248,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -295,7 +297,8 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>1</integer>
+									<integer>6</integer>
+									<integer>2</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -330,14 +333,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>README</string>
+								<string>AppDelegate.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -345,11 +346,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>README</string>
+										<string>AppDelegate.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>63F217B311E5EF49005EC38C</string>
+										<string>63F217CC11E5F13B005EC38C</string>
 										<key>history</key>
 										<array>
 											<string>6374224311E5ED5200DFBB47</string>
@@ -359,10 +360,10 @@
 											<string>63F217AC11E5EF49005EC38C</string>
 											<string>63F217AD11E5EF49005EC38C</string>
 											<string>63F217AE11E5EF49005EC38C</string>
-											<string>63F217AF11E5EF49005EC38C</string>
+											<string>63F217C911E5F13B005EC38C</string>
+											<string>63F217CA11E5F13B005EC38C</string>
+											<string>63F217CB11E5F13B005EC38C</string>
 											<string>63F217B011E5EF49005EC38C</string>
-											<string>63F217B111E5EF49005EC38C</string>
-											<string>63F217B211E5EF49005EC38C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -543,7 +544,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>300281673.87419403</real>
+	<real>300282171.16918498</real>
 	<key>ToolbarDisplayMode</key>
 	<integer>1</integer>
 	<key>ToolbarIsVisible</key>
